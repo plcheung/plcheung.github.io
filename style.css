@@ -1,0 +1,38 @@
+html,
+body {
+	height:100%;
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+.background {
+	background-image: url("Japan.jpg");
+	background-size: cover;
+	height: 100%;
+}
+
+h1 {
+	margin-top: 10%;
+	font-size: 6em;
+}
+
+hr {
+	max-width: 600px;
+	border-color: white;
+}
+
+.jumbotron {
+	background-color: rgba(0,0,0,0.8);
+	padding: 1em;
+
+}
+
+.btn {
+	margin-top: 10px;
+	text-transform: uppercase;
+  }
+
+ .btn-primary:hover {
+  border-width: 5px;
+  cursor: pointer;
+}
