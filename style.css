@@ -38,5 +38,5 @@ hr {
 }
 
 #mc_embed_signup form { 
-  text-align:center; 
+  text-align:center !Important; 
 }
